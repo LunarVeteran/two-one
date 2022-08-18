@@ -10,4 +10,6 @@
 
 [1. 首先当然是收集情报](docs/chapter1.md)
 
+[2. 编码、加密与哈希](docs/chapter2.md)
+
 _未完待续……_
