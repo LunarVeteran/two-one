@@ -12,4 +12,6 @@
 
 [2. 编码、加密与哈希](docs/chapter2.md)
 
+[3. 色图是第一生产力](docs/chapter3.md)
+
 _未完待续……_
