@@ -14,4 +14,6 @@
 
 [3. 色图是第一生产力](docs/chapter3.md)
 
+[4. 黒いレースの境界線](docs/chapter4.md)
+
 _未完待续……_
