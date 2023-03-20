@@ -26,6 +26,7 @@ $$
 这样的密文，在经过62进制编码之后会变成什么样呢？
 
 令
+
 $$
 \begin{aligned}
 a &= {[ \overbrace{开头密文}^{16位}, \overbrace{0, 0, 0, \cdots, 0, 0}^{64位} ]}_{256} \\
@@ -34,6 +35,7 @@ b &= {[ \overbrace{开头密文}^{16位}, \overbrace{255, 255, 255, \cdots, 255,
 $$
 
 再令
+
 $$
 \begin{aligned}
 c &= b - a \\
