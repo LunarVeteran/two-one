@@ -16,4 +16,6 @@
 
 [4. 黒いレースの境界線](docs/chapter4.md)
 
+[5. 先知不削能玩？](docs/chapter5.md)
+
 _未完待续……_
